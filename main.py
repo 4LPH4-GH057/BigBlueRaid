@@ -64,6 +64,7 @@ if __name__ == '__main__':
                 driver.get(bbb_meeting)
                 sleep(delay)
                 enter_name = driver.find_element_by_name(room_id + "[join_name]")
+                enter_name.clear()
                 enter_name.send_keys(name)
                 enter_name.submit()
                 x += 1
