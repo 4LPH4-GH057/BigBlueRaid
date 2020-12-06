@@ -1,0 +1,11 @@
+[needed]
+-m	gives meeting link
+
+
+[optional]
+-u	specifies single usernames (use '-' for spaces)
+-f	states file from which the usernames are read
+-d	sets delay between opening a new tab (default is 2 secs)
+
+[other]
+-help	displays this message
