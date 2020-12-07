@@ -63,6 +63,9 @@ if __name__ == '__main__':
     if len(args) == 1:
         print("ERROR: pls give required arguments")
         exit()
+    if "-help" in args:
+        help()
+        exit()        
 
     if "-m" in args:  # meeting link
         place = args.index("-m") + 1
