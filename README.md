@@ -21,6 +21,6 @@ This is a script for raiding BigBlueButton Meetings with Bots.
 
 ## Requirements
 
-[Selenium](https://www.selenium.dev) `pip install selenium`
-[Firefox](https://www.mozilla.org/de/firefox/new/)
+[Selenium](https://www.selenium.dev) `pip install selenium`  
+[Firefox](https://www.mozilla.org/de/firefox/new/)  
 [Gecko Webdriver](https://github.com/mozilla/geckodriver/releases)
