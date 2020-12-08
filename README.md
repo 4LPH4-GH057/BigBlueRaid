@@ -10,7 +10,7 @@ This is a script for raiding BigBlueButton Meetings with Bots.
 ### Optional
 * ``-f [file to read names from]``  
 			(default "names.txt")
-* ``-d [delay]``
+* ``-d [delay]``  
 			 (default 2secs)
 * ``-u [single_user_name]``
 
