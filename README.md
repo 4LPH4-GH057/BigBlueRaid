@@ -8,5 +8,3 @@ This is a script for attack BigBlueButton with Bots. WARNING THIS IS A REAL TOOL
 ## Requirements
 
 [Selenium](https://www.selenium.dev) `pip install selenium`
-FireFox(https://www.mozilla.org/de/firefox/new/) ``
-GeckoWebdriver(https://github.com/mozilla/geckodriver/releases) ``
